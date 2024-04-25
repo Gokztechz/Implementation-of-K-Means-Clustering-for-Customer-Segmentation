@@ -28,6 +28,9 @@ import matplotlib.pyplot as plt
 data=pd.read_csv("Mall_Customers.csv")
 data.head()
 ```
+
+
+
 ```
 ## Output:
 ![image](https://github.com/Gokztechz/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117667038/197daab0-2bf3-4690-81c2-f2ddefe9fe29)
